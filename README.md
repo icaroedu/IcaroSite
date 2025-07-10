@@ -4,6 +4,8 @@ Welcome!
 This is my personal portfolio website where I showcase my skills, projects, and work approach. You’ll find examples of front-end, back-end, full-stack, and some fun side projects that I’ve built.
 
 
+<img width="1260" height="606" alt="Portfolio" src="https://github.com/user-attachments/assets/dafb5c13-64ae-4a90-a9cf-572503101803" />
+
 
 📑 Table of Contents
 About the Site
