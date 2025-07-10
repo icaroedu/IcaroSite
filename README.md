@@ -1,7 +1,11 @@
-Ícaro’s Portfolio 🧑‍💻
-Welcome! This site is my personal portfolio, showcasing my skills, projects, and how I work. You'll find examples of front-end, back-end, full-stack, and fun side projects.
+Ícaro Portfolio 🧑‍💻
 
-Table of Contents
+Welcome!
+This is my personal portfolio website where I showcase my skills, projects, and work approach. You’ll find examples of front-end, back-end, full-stack, and some fun side projects that I’ve built.
+
+
+
+📑 Table of Contents
 About the Site
 
 Built With
@@ -13,87 +17,96 @@ My Skills
 Highlighted Projects
 
 Getting Started Locally
-<img width="1260" height="606" alt="Portfolio" src="https://github.com/user-attachments/assets/c6bd367c-8f9b-4b88-bc5f-49b65ccc4359" />
 
 Contact & Connect
 
 License
 
 🏗️ About the Site
-This portfolio is a clean, responsive web app designed to look great on both desktop and mobile. I built it from scratch to showcase my skills, share my work, and make it easy for people to know what I can do and how to get in touch.
+This portfolio is a clean and responsive web application designed to look great on both desktop and mobile devices.
+I built it from scratch to:
+
+Present my skills and projects
+
+Share my approach to web development
+
+Make it easy for people to contact or connect with me
 
 🛠️ Built With
-HTML5 – semantic structure & SEO
+HTML5 — Semantic structure & SEO optimization
 
-SASS – modular, maintainable styles
+SASS — Modular and maintainable styles
 
-JavaScript (ES6+) – interactivity and dynamic elements
+JavaScript (ES6+) — Interactivity and dynamic elements
 
-(optional: e.g. Next.js, React, PHP, Node)
+(Optional: Next.js, React, PHP, Node.js — include if used)
 
 ⭐ Key Features
-Fully responsive design – adapts gracefully to mobile & desktop
+Responsive Design — Adapts smoothly to all screen sizes
 
-Smooth scrolling and navigation
+Smooth Scrolling & Navigation
 
-Clean, modular SASS architecture
+Clean SASS Architecture — Modular and organized styles
 
-Modern JavaScript – well-organized code and event handling
+Modern JavaScript — Structured and maintainable code
 
-(add any extras like dark mode, animations, form validation)
+(Optional: Dark mode, animations, form validations, etc.)
 
 📚 My Skills
-Front-End: HTML, SASS, JavaScript, responsive layouts
+Front-End
+HTML5
 
-Back-End: (if applicable) PHP, MySQL, REST APIs
+CSS3 / SASS
 
-(list frameworks or tools like React, Bootstrap, Node, etc.)
+JavaScript (ES6+)
+
+Responsive Layouts
+
+Back-End
+(Optional: PHP, MySQL, REST APIs)
+
+Tools & Frameworks
+(Optional: React, Bootstrap, Node.js, Figma, Git)
+
+(Customize this section based on the actual tools you use.)
 
 🔍 Highlighted Projects
-Here are a few featured projects from this portfolio:
+🛒 Vegan Shop
+A polished e-commerce landing page built using HTML, SASS, and JavaScript. Features responsive design and clean layout.
 
-Vegan Shop
-A static but polished e‑commerce landing page built with HTML, SASS, and JavaScript. Clean structure and responsive design.
+🔗 API Collection
+A multi-tool web app using PHP, CSS, Bootstrap that integrates multiple APIs like Google Books, PokeAPI, and CoinGecko.
 
-API Collection
-A multi-tool app built in PHP, CSS, and Bootstrap. Integrates Google Books, PokeAPI, and CoinGecko.
+✂️ URL Shortener
+A custom PHP/MySQL-based tool with a Bootstrap interface. It allows users to generate short links and track usage statistics.
 
-URL Shortener
-Custom PHP/MySQL tool with Bootstrap UI. Generate short links and track usage data.
-
-(List a few more with a line each—keep it concise)
+(Add more projects with 2–3 lines each, only the most relevant ones.)
 
 🚀 Getting Started Locally
-Want to run this site on your computer?
-
-Clone the repo
+To run this project locally:
 
 bash
 Copiar
 Editar
+# Clone the repository
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
-Install dependencies (if any)
 
-bash
-Copiar
-Editar
-npm install    # or yarn install
-Start a local server
+# Install dependencies (if any)
+npm install
 
-bash
-Copiar
-Editar
-npm run start  # or serve . locally
-Built and deployed on Vercel: https://icaro-site.vercel.app
+# Run the development server
+npm run start
+✅ Built and deployed with Vercel:
+👉 https://icaro-site.vercel.app
 
 📫 Contact & Connect
-📧 Email:
+📧 Email: your.email@example.com
 
-🔗 LinkedIn: [linkedin-profile]
+🔗 LinkedIn: Your LinkedIn Profile
 
-💼 Resume/CV: [Download or link]
+💼 Resume/CV: [Link to your resume]
 
-🐙 GitHub: [@]
+🐙 GitHub: @yourusername
 
-Feel free to get in touch for collaboration, freelance, or just to say hi!
+Feel free to get in touch for collaboration, freelance opportunities, or just to say hi!
