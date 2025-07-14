@@ -51,9 +51,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
-                <p>Meus projetos são esses, mas também você pode entrar em contato comigo pelas redes,
-                  meu Portfolio completo está no Github.
-                </p>
+                <p>Here are some of the projects I’ve developed. You can also reach out through my social media or view my complete portfolio on GitHub.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
@@ -81,11 +79,11 @@ export const Projects = () => {
                         }
                       </Row>
                     </Tab.Pane>
-                    <Tab.Pane eventKey="section">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                    <Tab.Pane eventKey="second">
+                      <p>This section can contain additional projects or a deeper look into my work process, including planning, tech stacks, and implementation details.</p>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                      <p>More coming soon — I’m always working on new and exciting ideas to improve my craft and deliver innovative solutions.</p>
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
