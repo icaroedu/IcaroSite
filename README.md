@@ -87,9 +87,6 @@ A custom PHP/MySQL-based tool with a Bootstrap interface. It allows users to gen
 🚀 Getting Started Locally
 To run this project locally:
 
-bash
-Copiar
-Editar
 # Clone the repository
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
@@ -102,13 +99,8 @@ npm run start
 ✅ Built and deployed with Vercel:
 👉 https://icaro-site.vercel.app
 
-📫 Contact & Connect
-📧 Email: your.email@example.com
+🔗 LinkedIn: in/icaroesr/
 
-🔗 LinkedIn: Your LinkedIn Profile
-
-💼 Resume/CV: [Link to your resume]
-
-🐙 GitHub: @yourusername
+🐙 GitHub: @icaroedu
 
 Feel free to get in touch for collaboration, freelance opportunities, or just to say hi!
