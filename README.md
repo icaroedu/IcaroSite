@@ -88,7 +88,7 @@ A custom PHP/MySQL-based tool with a Bootstrap interface. It allows users to gen
 To run this project locally:
 
 # Clone the repository
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/icaroedu/portfolio.git
 cd portfolio
 
 # Install dependencies (if any)
